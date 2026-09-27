@@ -1,7 +1,4 @@
-
-# Hi, I'm Reyad 👋
-
-Developer | CSE Student | Creative Technologist
+<img src="./assets/ascii-banner.png" alt="Custom ASCII art banner" width="100%" />
 
 ```text
         /\                 zenix@github
