@@ -1,13 +1,2 @@
-<img src="./assets/ascii-banner.png" alt="Custom ASCII art banner" width="100%" />
+<img src="R (8).jpg" alt="Custom ASCII art banner" width="65%" />
 
-```text
-        /\                 zenix@github
-       /  \                -----------------------
-      / /\ \               Role: Developer
-     / /  \ \              Education: BSc in CSE
-    / /____\ \             Focus: AI / ML
-   /__________\            Languages: Python, Java
-       |  |                Web: HTML, CSS, JavaScript
-       |__|                Tools: Git, VS Code
-                           Status: Building projects
-```
