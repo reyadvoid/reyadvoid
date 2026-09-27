@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**reyadvoid/reyadvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Reyad 👋
 
-Here are some ideas to get you started:
+Developer | CSE Student | Creative Technologist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+        /\                 zenix@github
+       /  \                -----------------------
+      / /\ \               Role: Developer
+     / /  \ \              Education: BSc in CSE
+    / /____\ \             Focus: AI / ML
+   /__________\            Languages: Python, Java
+       |  |                Web: HTML, CSS, JavaScript
+       |__|                Tools: Git, VS Code
+                           Status: Building projects
+```
