@@ -1,3 +1,3 @@
-<img src="Reyad.png" alt="Custom ASCII art banner" width="100%" />
+<img src="image.png" alt="Custom ASCII art banner" width="100%" />
 
 
