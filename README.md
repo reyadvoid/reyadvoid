@@ -1,13 +1,8 @@
 <img src="Reyad.png" alt="Custom ASCII art banner" width="100%" />
-<!-- Technologies Section (Terminal Style) -->
+<!-- Technologies Section -->
 <div align="center">
-  <!-- This creates the terminal window header -->
-  <h3>
-    <code>reyad@github:~$ ./tech_stack --list</code>
-  </h3>
-  
-  <!-- This adds a subtle terminal-like separator line -->
-  <p><code>--------------------------------------------------</code></p>
+  <!-- Plain terminal text style for the header -->
+  <h3><code>Technologies</code></h3>
   
   <!-- Your inverted monochrome badges -->
   <p>
