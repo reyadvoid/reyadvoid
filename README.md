@@ -1,42 +1,49 @@
 <img src="Reyad.png" alt="Custom ASCII art banner" width="100%" />
-<!-- Header -->
+<!-- About Me & Technologies Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Hey,+I'm+Reyad+%F0%9F%91%8B;Low-key+Problem+Solver;Full-Stack+Developer" alt="Typing SVG" />
+  <h3>👨‍💻 About me</h3>
 </div>
 
-<!-- About Section -->
-### 📖 About Me
-> A curious learner and developer who enjoys building things, exploring new technologies, and turning ideas into practical projects.
-
-- 🔭 **Current Focus:** Learning, Improving, Always
-- 📍 **Location:** Dhaka, Bangladesh (GMT+6)
-- ⚡ **Fun Fact:** I love reading, gym, photography, and random YT video watching.
-
-<!-- Tech Stack -->
-### 🛠️ Tech Stack
-<div align="center">
-  <br />
-  <img src="https://skillicons.dev/icons?i=ts,js,py,c,java,html,css,react,nodejs,git,github,vscode,figma,ps" />
-</div>
-
-<!-- GitHub Stats & Contact -->
-### 📊 GitHub Stats & Connect
-<div align="center">
-  <!-- Replace 'reyadvoid' with your actual GitHub username in the URLs below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=reyadvoid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD" alt="Reyad's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyadvoid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD" alt="Top Languages" height="165" />
-</div>
+<!-- About Me Table Layout -->
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <p>Hello! I'm <b>Reyad</b>, a low-key problem solver and developer. I enjoy building practical things, exploring new technologies, and turning ideas into practical projects. I'm always learning, improving, and looking for new challenges.</p>
+      <ul>
+        <li>🎓 <b>Studying:</b> Computer Science / Engineering</li>
+        <li>📍 <b>Location:</b> Dhaka, Bangladesh (GMT+6)</li>
+        <li>⚡ <b>Fun Fact:</b> I love reading, gym, photography, and random YT video watching.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <!-- Replace this URL with your favorite coding GIF -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" max-width="250px" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
+<!-- Technologies Section -->
 <div align="center">
-  <a href="mailto:syedreyad47@gmail.com"><img src="https://img.shields.io/badge/Email-syedreyad47%40gmail.com-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/reyad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/reyadvoid"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <br />
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+  <h3>🛠️ Technologies</h3>
+  
+  <!-- Using Shields.io Badges to create the pill effect -->
+  <p>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  </p>
 </div>
