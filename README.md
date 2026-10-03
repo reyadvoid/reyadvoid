@@ -2,7 +2,7 @@
 <!-- Technologies Section -->
 <div align="center">
   <!-- Plain terminal text style for the header -->
-  <h3><code>Technologies</code></h3>
+  <h3><code>𝖳𝖤𝖢𝖧𝖭𝖮𝖫𝖮𝖦𝖨𝖤𝖲</code></h3>
   
   <!-- Your inverted monochrome badges -->
   <p>
