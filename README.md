@@ -1,7 +1,7 @@
 <img src="Reyad.png" alt="Custom ASCII art banner" width="100%" />
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Hey,+I'm+Reyad+%F0%9F%91%8B;Low-key+Problem+Solver;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&lines=Hey,+I'm+Reyad+%F0%9F%91%8B;Low-key+Problem+Solver;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <!-- About Section -->
@@ -23,8 +23,8 @@
 ### 📊 GitHub Stats & Connect
 <div align="center">
   <!-- Replace 'reyadvoid' with your actual GitHub username in the URLs below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=reyadvoid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD" alt="Reyad's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyadvoid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reyadvoid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD" alt="Reyad's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyadvoid&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD" alt="Top Languages" height="165" />
 </div>
 
 <br />
@@ -40,4 +40,3 @@
   <br />
   <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
 </div>
-
