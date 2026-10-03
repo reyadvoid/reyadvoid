@@ -10,11 +10,11 @@ things, exploring new technologies, and turning ideas
 into practical projects.
 
 › Details
-• Uptime ............... Learning, Improving, Always
-• Location ............. Earth
-• Timezone ............. GMT+6 (Dhaka, Bangladesh)
-• IDE .................. VSCode
-• Languages ............ C, Java, HTML, CSS, Python
+• Uptime ........................................................................................................................... Learning, Improving, Always
+• Location ......................................................................................................................... Earth
+• Timezone ......................................................................................................................... GMT+6 (Dhaka, Bangladesh)
+• IDE .............................................................................................................................. VSCode
+• Languages ........................................................................................................................ C, Java, HTML, CSS, Python
 • Language_Real ........ English
 • Hobbies_Software ..... Video Editing, Animation
 • Hobbies_Hardware ..... Reading, GYM, Photography, Random YT video watching
