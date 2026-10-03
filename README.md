@@ -1,29 +1,4 @@
 <img src="Reyad.png" alt="Custom ASCII art banner" width="100%" />
-<!-- About Me & Technologies Section -->
-<div align="center">
-  <h3>👨‍💻 About me</h3>
-</div>
-
-<!-- About Me Table Layout -->
-<table border="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <p>Hello! I'm <b>Reyad</b>, a low-key problem solver and developer. I enjoy building practical things, exploring new technologies, and turning ideas into practical projects. I'm always learning, improving, and looking for new challenges.</p>
-      <ul>
-        <li>🎓 <b>Studying:</b> Computer Science / Engineering</li>
-        <li>📍 <b>Location:</b> Dhaka, Bangladesh (GMT+6)</li>
-        <li>⚡ <b>Fun Fact:</b> I love reading, gym, photography, and random YT video watching.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Replace this URL with your favorite coding GIF -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" max-width="250px" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <!-- Technologies Section (INVERTED / DARK MODE) -->
 <div align="center">
   <h3>🛠️ Technologies</h3>
