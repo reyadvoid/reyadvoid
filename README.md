@@ -1,9 +1,15 @@
 <img src="Reyad.png" alt="Custom ASCII art banner" width="100%" />
-<!-- Technologies Section (INVERTED / DARK MODE) -->
+<!-- Technologies Section (Terminal Style) -->
 <div align="center">
-  <h3>🛠️ Technologies</h3>
+  <!-- This creates the terminal window header -->
+  <h3>
+    <code>reyad@github:~$ ./tech_stack --list</code>
+  </h3>
   
-  <!-- Inverted Badges: Black background, white text/logo -->
+  <!-- This adds a subtle terminal-like separator line -->
+  <p><code>--------------------------------------------------</code></p>
+  
+  <!-- Your inverted monochrome badges -->
   <p>
     <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
